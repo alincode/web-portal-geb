@@ -72,6 +72,7 @@
           <includes>
             <include>*Spec.*</include>
             <include>error/input/*Spec.*</include>
+            <include>requirement/*Spec.*</include>
           </includes>
           <systemPropertyVariables>
             <geb.env>chrome</geb.env>
