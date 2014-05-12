@@ -12,7 +12,7 @@ class InvalidCreditCardInfoCheckSpec extends GebReportingSpec {
         expect: true
     }
     
-    def "Input invalid Expiration Date. (under 2013)"() {
+    def "Input invalid Expiration Date."() {
         expect: true
     }
 }
