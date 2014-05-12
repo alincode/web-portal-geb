@@ -11,6 +11,6 @@ class RegistrationSpec extends GebReportingSpec {
     }
     
     def "Then check the email account and Received an email Registration info from Cloud WEB Site."() {
-        expect: true
+        expect: false
     }
 }
